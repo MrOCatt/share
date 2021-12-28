@@ -10,7 +10,7 @@ apt install nginx
 
 # 配置文件
 /etc/nginx/sites-available/
-/etc/nginx/sites-eable/
+/etc/nginx/sites-enabled/
 ```
 
 ## 返回字符串
